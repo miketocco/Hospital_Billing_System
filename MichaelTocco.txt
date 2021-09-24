@@ -1,0 +1,12 @@
+Patient: Michael Tocco
+Attending Physician: Joe Tocco
+Admitted: 8/4/2021
+Discharged: 9/5/2022
+
+Bill: 
+Patient ID: 1234
+Pharmacy Charges: $100.0
+Doctor Fee: $100.0
+Room Charges: $100.0
+-------------------------------
+Total: $300.0
